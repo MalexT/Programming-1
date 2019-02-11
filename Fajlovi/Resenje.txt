@@ -1,0 +1,2 @@
+U prvom fajlu ima 10 novih redova.
+Najduza duzina reda je 7

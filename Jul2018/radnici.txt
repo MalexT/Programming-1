@@ -1,0 +1,15 @@
+Toyota JAPAN:
+Zaposleni:Aleksa Markovic
+
+	VREME IZRADE:17.00	Bodovi za vreme: 129.80
+Ocene za kvalitet: {19.00 18.00 20.00 11.00 17.00 16.00 17.00 } Prosecno bodova: 17.40
+ Ukupno bodova: 147.20
+
+-----------------------------------------------------------------------------
+Zaposleni:Petar Peric
+
+	VREME IZRADE:25.00	Bodovi za vreme: 106.80
+Ocene za kvalitet: {12.00 16.00 14.00 13.00 15.00 17.00 11.00 } Prosecno bodova: 14.00
+ Ukupno bodova: 120.80
+
+-----------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Alo	3
+Koji	4
+Je	2
+Ovo	3
+Djavo	5
+Zasto	5
+Se	2
+Ovo	3
+Meni	4
+Desava.	7
+A	1

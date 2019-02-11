@@ -1,0 +1,5 @@
+ Marko Markovic;0001/2016;P1;8;OIKT;9;UIS;6;
+ Ivana Markovic;0001/2016;P1;6;ISP;8;UIS;6;
+ Pera Peric;0202/2017;P1;8;AROS;7;UIS;5;PJ9;
+ Aca Acic;0123/2016;M1;8;OIKT;6;
+ Teodora Teodorovic;0011/2013;BAZE;10;
